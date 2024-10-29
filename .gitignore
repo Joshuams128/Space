@@ -5,6 +5,9 @@
 # ignore node dependency directories
 node_modules/
 
+#ignore these plugins
+/plugins/debug-bar
+
 # ignore log files and databases
 *.log
 *.sql
